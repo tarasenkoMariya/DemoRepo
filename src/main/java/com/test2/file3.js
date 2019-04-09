@@ -1,1 +1,1 @@
-This file is dgwsbbchange to activaterfnent js-owner
+This file is dgwsbbchange to activater azdvsafnent js-owner
