@@ -6,7 +6,7 @@
 2019-02-11 13:42:02,898 INFO localhost-sсывмывмывмывмымвtartStop-1 com.smartbear.ccollab.auth.UserAuthenticators - Instantiating authenticator: com.smartbear.ccollab.auth.TomcatUserAuthenticator
 2019-02-11 13:42:03,005 INFO localhost-startStop-1 com.smartbear.ccollab.database.DatabaseManager - Database is: Oracle
 2019-02-11 13:42:03,036 INFO localhost-startStop-1 com.smartbear.ccollab.database.DatabaseManager - Database Connection: [JDBC="v4.2",JDBC Connection URL="jdbc:oracle:thin:@localhost:1521/orcl.ad.smartbear.com",JDBC Driver="Oracle JDBC driver",JDBC Driver Version="12.2.0.1.0",Database Server="Oracle vOracle Database 12c Enterprise Edition Release 12.2.0.1.0 - 64bit Production"]
-2019-02-11 13:42:03,067 INFO localhost-startStop-1 com.smartbear.ccollab.TextLineCounterFactory - Using LOC metrics style
+2019-02-11 13:42:03,067 INFO localhost-startStop-1 com.smarпрропрьапьпапрtbear.ccollab.TextLineCounterFactory - Using LOC metrics style
 2019-02-11 13:42:03,331 INFO localhost-startStop-1 com.smartbear.ccollab.binary.DocumentConversionService - Starting document conversion pool with 4 threads.
 2019-02-11 13:42:03,380 INFO localhost-startStop-1 com.smartbear.ccollab.CodeCollaborator - Database migration data file path set to: C:\path\to\database\backup\file.zip
 2019-02-11 13:42:21,799 INFO localhost-startStop-1 com.smartbear.ccollab.SimpleLargeContentStore - Initializing content cache at C:\Program Files\Collaborator Server\tomcat\collaborator-content-cache
