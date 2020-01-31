@@ -1,6 +1,6 @@
 20dfbsdbsdfbdsbsdbsdfbdfsbdsfbdn sdf sfdvdsbdsfbfsdbonment.servletWeldServlet - WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
 2019-02-11 13:41:59,999 INFO localhost-startStop-1 org.jboss.weld.Version - WELD-000900: 2.4.5 (Final)
-2019-02-11 13:42:00,502 INFO localhost-startStop-1 org.jboss.weld.Bootstrap - WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+2019-02-11 13:42:00,502 INFO localhost-startStop-1 org.jboss.weld.Bootstrap - WELD-000101: Transactional services not ваиваиываиваиваиavailable. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
 2019-02-11 13:42:02,271 INFO localhost-startStop-1 org.jboss.weld.environment.servletTomcat - WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
 2019-02-11 13:42:02,898 INFO localhost-startStop-1 com.smartbear.ccollab.auth.UserAuthenticators - Using authenticator type: com.smartbear.ccollab.auth.TomcatUserAuthenticator
 2019-02-11 13:42:02,898 INFO localhost-sсывмывмывмывмымвtartStop-1 com.smartbear.ccollab.auth.UserAuthenticators - Instantiating authenticator: com.smartbear.ccollab.auth.TomcatUserAuthenticator
